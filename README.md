@@ -1,3 +1,3 @@
-# PXL Python Ethical Hacking - Intro Files
+# PXL Python Ethical Hacking
 
-Alle the files you need to start with PXL Python Ethical Hacking course
+Here you can find all the files for the Python Ethical Hacking Course
