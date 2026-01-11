@@ -1,0 +1,9 @@
+Artifact,Found,Size (KB),Type
+System logs,True,1000,txt
+Network traffic logs,True,2500,pcap
+File access logs,False,800,txt
+Registry entries,True,1200,reg
+Browser history,True,1500,html
+Deleted files,False,2000,dat
+Network traffic logs,True,1200,log
+Network traffic logs,True,2000,har
